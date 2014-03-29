@@ -10,4 +10,5 @@ Add the tap with:
 
 Install the packages it contains like any other Homebrew package:
 
+    brew install repeat-and-retry
     brew install use
