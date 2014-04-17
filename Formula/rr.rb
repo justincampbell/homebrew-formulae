@@ -2,8 +2,8 @@ require 'formula'
 
 class Rr < Formula
   homepage 'https://github.com/justincampbell/rr'
-  url 'https://github.com/justincampbell/rr/archive/v0.3.0.tar.gz'
-  sha1 '70d1ec02569041feb196f31d8267d3ff03533a93'
+  url 'https://github.com/justincampbell/rr/archive/v0.4.0.tar.gz'
+  sha1 '3611340192238553e5346da2538126ce0f59a130'
 
   head 'https://github.com/justincampbell/rr.git'
 
