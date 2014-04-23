@@ -10,5 +10,6 @@ Add the tap with:
 
 Install the packages it contains like any other Homebrew package:
 
+    brew install dotmusic
     brew install rr
     brew install use
