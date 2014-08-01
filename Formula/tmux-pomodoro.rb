@@ -2,8 +2,8 @@ require 'formula'
 
 class TmuxPomodoro < Formula
   homepage 'https://github.com/justincampbell/tmux-pomodoro'
-  url 'https://github.com/justincampbell/tmux-pomodoro/archive/v1.0.1.tar.gz'
-  sha1 '22163ffb2da2dde6c067badbd830d45d9fb5196f'
+  url 'https://github.com/justincampbell/tmux-pomodoro/archive/v1.1.0.tar.gz'
+  sha1 '327b44ae3f711bd213866dacfb5cedd8b69be454'
   head 'https://github.com/justincampbell/tmux-pomodoro.git'
 
   depends_on 'git' => :build
