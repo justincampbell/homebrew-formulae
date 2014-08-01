@@ -12,8 +12,9 @@ class TmuxPomodoro < Formula
 
   def install
     ENV["GOPATH"] = buildpath
+    ENV["GOBIN"] = "#{prefix}/bin"
 
-    system 'mkdir', "#{prefix}/bin"
+    system 'mkdir', ENV['GOBIN']
     system 'make', 'install', "PREFIX=#{prefix}"
   end
 end
