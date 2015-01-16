@@ -2,8 +2,8 @@ require 'formula'
 
 class Dotmusic < Formula
   homepage 'https://github.com/justincampbell/dotmusic'
-  url 'https://github.com/justincampbell/dotmusic/archive/v0.3.0.tar.gz'
-  sha1 '72f2c241cbfda0f298389e14892813c6f9ecf03f'
+  url 'https://github.com/justincampbell/dotmusic/archive/v0.4.0.tar.gz'
+  sha1 'b85ca479d85c36cee1bc739c94df8866230cdb6d'
 
   head 'https://github.com/justincampbell/dotmusic.git'
 
