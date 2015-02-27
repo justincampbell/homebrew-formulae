@@ -2,8 +2,8 @@ require 'formula'
 
 class EmojiWeather < Formula
   homepage 'https://github.com/justincampbell/emoji-weather'
-  url 'https://github.com/justincampbell/emoji-weather/archive/v0.2.0.tar.gz'
-  sha1 '0d454cabd4a6e7c29bb7381ace52f718933cd4ef'
+  url 'https://github.com/justincampbell/emoji-weather/archive/v0.2.1.tar.gz'
+  sha1 '4b8f7e3012bf27e1e19ee6ac92fbf3171aaea472'
   head 'https://github.com/justincampbell/emoji-weather.git'
 
   depends_on 'git' => :build
