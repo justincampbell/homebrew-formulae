@@ -2,8 +2,8 @@ require 'formula'
 
 class Use < Formula
   homepage 'https://github.com/justincampbell/use'
-  url 'https://github.com/justincampbell/use/archive/v0.2.3.tar.gz'
-  sha1 '978245c2b0783d47e964818ed129a5b65b308670'
+  url 'https://github.com/justincampbell/use/archive/v0.2.4.tar.gz'
+  sha1 '1fc9b6d927078c7e482ebd277046e5211516dc82'
 
   head 'https://github.com/justincampbell/use.git'
 
